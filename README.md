@@ -1,4 +1,4 @@
 # Ankit-demo
 Tis is my first Git  repository
 <br>
-Author - Ankit Prajapati
+Author - Ankit Prajapati (tharrecha)
